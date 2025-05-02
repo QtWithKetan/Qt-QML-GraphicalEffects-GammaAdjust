@@ -1,0 +1,1 @@
+# Qt-QML-GraphicalEffects-GammaAdjust
